@@ -30,3 +30,9 @@ out/
 
 ### VS Code ###
 .vscode/
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
